@@ -1,1 +1,2 @@
 This is  conflict  line
+this is main line
